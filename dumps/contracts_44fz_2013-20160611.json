@@ -1,0 +1,2086 @@
+[
+  {
+    "contractProcedure": {
+      "publishDate": "2015-01-27T19:58:05.189+05:00",
+      "executions": {
+        "execution": {
+          "product": "в полном объеме",
+          "paidRUR": "235164.60",
+          "paid": "235164.60",
+          "docExecution": {
+            "documentDate": "2015-01-23",
+            "code": "20",
+            "name": "Акт выполненных работ",
+            "documentNum": "91"
+          },
+          "currency": {
+            "code": "RUB",
+            "name": "Российский рубль"
+          },
+          "currencyRate": {
+            "rate": "1",
+            "raiting": "1"
+          }
+        },
+        "finalStageExecution": "true",
+        "ordinalNumber": "0",
+        "stage": {
+          "endDate": "2015-01-31T00:00:00Z",
+          "oldStage": {
+            "year": "2013",
+            "month": "12"
+          }
+        }
+      },
+      "versionNumber": 0,
+      "printForm": {
+        "url": "http://zakupki.gov.ru/epz/contract/printForm/view.html?printFormId=50249733"
+      },
+      "id": "50093856",
+      "termination": {
+        "docTermination": null,
+        "paid": "0.00"
+      },
+      "@schemeVersion": "5.0"
+    },
+    "placingWayCode": "ZK",
+    "scan": [
+      {
+        "url": "http://zakupki.gov.ru/44fz/filestore/public/1.0/download/rgk/file.html?uid=0DA3F4B3F6C90082E053AC11071A9FB6",
+        "docDescription": "ГОСУДАРСТВЕННЫЙ КОНТРАКТ",
+        "fileName": "ГОСУДАРСТВЕННЫЙ КОНТРАКТ.docx"
+      }
+    ],
+    "number": "2/2013",
+    "currentContractStage": "EC",
+    "id": "19459104",
+    "fileVersion": "2015020100_011",
+    "placing": "4",
+    "regionCode": "02",
+    "contractUrl": "http://zakupki.gov.ru/epz/contract/contractCard/common-info.html?reestrNumber=0101000000113000005",
+    "signDate": "2013-04-18T00:00:00Z",
+    "fz": "44",
+    "documentBase": "Протокол рассмотрения и оценки котировочных заявок №0101000000113000002-П от 09.04.2013",
+    "foundation": {
+      "oosOrder": {
+        "notificationNumber": "0101000000113000002",
+        "placing": "4",
+        "lotNumber": "1"
+      }
+    },
+    "price": 235164.6,
+    "protocolDate": "2013-04-09",
+    "publishDate": "2015-01-27T19:56:15.863+05:00",
+    "regNum": "0101000000113000005",
+    "versionNumber": 3,
+    "schemaVersion": "5.0",
+    "execution": {
+      "startDate": "2013-04-18T00:00:00Z",
+      "endDate": "2015-01-31T00:00:00Z"
+    },
+    "customer": {
+      "kpp": "027401001",
+      "regNum": "01010000001",
+      "fullName": "Центральная избирательная комиссия Республики Башкортостан",
+      "inn": "0274053149",
+      "postalAddress": "Российская Федерация, 450008, Республика Башкортостан, г.Уфа, ул.Заки Валиди, 46."
+    },
+    "currency": {
+      "code": "RUB",
+      "name": "Российский рубль"
+    },
+    "suppliers": [
+      {
+        "kpp": "027501001",
+        "legalForm": {
+          "code": "12165",
+          "singularName": "Общество с ограниченной ответственностью"
+        },
+        "factualAddress": "450052, Респ Башкортостан, г Уфа, ул Карла Маркса, 37, 3, 205",
+        "contactPhone": "8-347-2911360",
+        "contactEMail": "2911360@mail.ru",
+        "inn": "0275073733",
+        "participantType": "U",
+        "organizationName": "Общество с ограниченной ответственностью \"Альфа-реклама\"",
+        "contactInfo": {
+          "middleName": "Евгеньевна",
+          "lastName": "Бочарова",
+          "firstName": "Татьяна"
+        }
+      }
+    ],
+    "loadId": 82,
+    "finances": {
+      "budgetLevel": {
+        "code": "01"
+      },
+      "budgetFunds": {
+        "stages": [
+          {
+            "endDate": "2015-01-31T00:00:00Z",
+            "payments": {
+              "KBK": "30801070200400244340",
+              "paymentYear": "2013",
+              "paymentSumRUR": "235164.60",
+              "paymentMonth": "6",
+              "paymentSum": "235164.60"
+            }
+          }
+        ]
+      },
+      "budget": {
+        "code": "99010001",
+        "name": "Федеральный бюджет"
+      }
+    },
+    "products": [
+      {
+        "name": "Услуги по печатанию журналов и периодических изданий",
+        "OKPD": {
+          "code": "22.11.21.199",
+          "name": "Книги, брошюры, листовки и аналогичные печатные материалы, переплетенные, не включенные в другие группировки, прочие"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 235164.6,
+        "sid": "29324342",
+        "price": 117.7,
+        "quantity": "1998.0"
+      }
+    ],
+    "printFormUrl": "http://zakupki.gov.ru/epz/contract/printForm/view.html?contractInfoId=19459104",
+    "economic_sectors": [
+      {
+        "code": "D",
+        "name": "Продукция обрабатывающих производств"
+      }
+    ]
+  },
+  {
+    "contractProcedure": {
+      "publishDate": "2015-01-27T20:17:51.159+05:00",
+      "@schemeVersion": "5.0",
+      "versionNumber": 0,
+      "printForm": {
+        "url": "http://zakupki.gov.ru/epz/contract/printForm/view.html?printFormId=50250503"
+      },
+      "executions": {
+        "execution": {
+          "product": "в полном объеме",
+          "paidRUR": "583531.56",
+          "paid": "583531.56",
+          "docExecution": {
+            "documentDate": "2015-01-23",
+            "code": "12",
+            "name": "Акт о приемке выполненных работ",
+            "documentNum": "б/н"
+          },
+          "currency": {
+            "code": "RUB",
+            "name": "Российский рубль"
+          },
+          "currencyRate": {
+            "rate": "1",
+            "raiting": "1"
+          }
+        },
+        "finalStageExecution": "true",
+        "ordinalNumber": "0",
+        "stage": {
+          "endDate": "2015-01-31T00:00:00Z"
+        }
+      },
+      "id": "50093875"
+    },
+    "scan": [
+      {
+        "url": "http://zakupki.gov.ru/44fz/filestore/public/1.0/download/rgk/file.html?uid=0DA3395D0B1D0080E053AC11071A1E7E",
+        "docDescription": "ГУП УАЗ",
+        "fileName": "ГУП УАЗ.rar"
+      }
+    ],
+    "number": "3/2013",
+    "currentContractStage": "EC",
+    "id": "19459941",
+    "fileVersion": "2015020100_009",
+    "regionCode": "02",
+    "contractUrl": "http://zakupki.gov.ru/epz/contract/contractCard/common-info.html?reestrNumber=0101000000113000007",
+    "singleCustomerReason": {
+      "code": "2",
+      "name": "Пункт 2 части 2 статьи 55 – Осуществляется оказание услуг водоснабжения, водоотведения, канализации, теплоснабжения, газоснабжения (за исключением услуг по реализации сжиженного газа), подключение (присоединение) к сетям инженерно-технического обеспечения по регулируемым в соответствии с законодательством Российской Федерации ценам (тарифам)"
+    },
+    "signDate": "2013-04-18T00:00:00Z",
+    "fz": "44",
+    "price": 583531.56,
+    "publishDate": "2015-01-27T20:16:36.877+05:00",
+    "regNum": "0101000000113000007",
+    "versionNumber": 4,
+    "schemaVersion": "5.0",
+    "execution": {
+      "startDate": "2013-04-18T00:00:00Z",
+      "endDate": "2015-01-31T00:00:00Z"
+    },
+    "customer": {
+      "kpp": "027401001",
+      "regNum": "01010000001",
+      "fullName": "Центральная избирательная комиссия Республики Башкортостан",
+      "inn": "0274053149",
+      "postalAddress": "Российская Федерация, 450008, Республика Башкортостан, г.Уфа, ул.Заки Валиди, 46."
+    },
+    "currency": {
+      "code": "RUB",
+      "name": "Российский рубль"
+    },
+    "suppliers": [
+      {
+        "kpp": "027401001",
+        "legalForm": {
+          "code": "15000",
+          "singularName": "Унитарное предприятие"
+        },
+        "factualAddress": "450008, Респ БАШКОРТОСТАН, г УФА, ул СОВЕТСКАЯ, 18",
+        "contactPhone": "8-3472-764239",
+        "contactEMail": "764239@mail.ru",
+        "inn": "0274003437",
+        "participantType": "U",
+        "organizationName": "ГОСУДАРСТВЕННОЕ УНИТАРНОЕ ПРЕДПРИЯТИЕ РЕСПУБЛИКИ БАШКОРТОСТАН \"УПРАВЛЕНИЕ АДМИНИСТРАТИВНЫМИ ЗДАНИЯМИ\"",
+        "contactInfo": {
+          "middleName": "Салаватович",
+          "lastName": "Байбулов",
+          "firstName": "Ринат"
+        }
+      }
+    ],
+    "loadId": 82,
+    "finances": {
+      "budgetLevel": {
+        "code": "02"
+      },
+      "budgetFunds": {
+        "stages": [
+          {
+            "endDate": "2015-01-31T00:00:00Z",
+            "payments": {
+              "KBK": "80801070020400244223",
+              "paymentYear": "2013",
+              "paymentSumRUR": "117512.91",
+              "paymentMonth": "12",
+              "paymentSum": "117512.91"
+            }
+          },
+          {
+            "endDate": "2015-01-31T00:00:00Z",
+            "payments": {
+              "KBK": "80801070020400244225",
+              "paymentYear": "2013",
+              "paymentSumRUR": "466018.65",
+              "paymentMonth": "12",
+              "paymentSum": "466018.65"
+            }
+          }
+        ]
+      },
+      "budget": {
+        "code": "01021251",
+        "name": "Бюджет Республики Башкортостан"
+      }
+    },
+    "products": [
+      {
+        "name": "Электроэнергия",
+        "OKPD": {
+          "code": "40.11.10.112",
+          "name": "Электроэнергия, произведенная теплоэлектроцентралями (ТЭЦ) общего назначения"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 82289.4,
+        "sid": "29322789",
+        "price": 82289.4,
+        "quantity": "1.0"
+      },
+      {
+        "name": "Тепловая энергия",
+        "OKPD": {
+          "code": "40.30.10.111",
+          "name": "Тепловая энергия, отпущенная тепловыми электростанциями"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 32599.13,
+        "sid": "29322787",
+        "price": 32599.13,
+        "quantity": "1.0"
+      },
+      {
+        "name": "Водоснабжение и водоотведение. очищенная вода",
+        "OKPD": {
+          "code": "41.00.20.132",
+          "name": "Услуги по водоснабжению (без горячей воды) производственных предприятий и прочих потребителей"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 2624.38,
+        "sid": "29322788",
+        "price": 2624.38,
+        "quantity": "1.0"
+      },
+      {
+        "name": "Содержание в чистоте помещений, зданий, дворов. Техническое обслуживание имущества. Вывоз твердо-бытовых отходов.",
+        "OKPD": {
+          "code": "74.70.13.990",
+          "name": "Услуги по чистке и уборке общего назначения прочие"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 466018.65,
+        "sid": "29322790",
+        "price": 466018.65,
+        "quantity": "1.0"
+      }
+    ],
+    "printFormUrl": "http://zakupki.gov.ru/epz/contract/printForm/view.html?contractInfoId=19459941",
+    "economic_sectors": [
+      {
+        "code": "E",
+        "name": "Электроэнергия, газ, пар и вода"
+      },
+      {
+        "code": "K",
+        "name": "Услуги, связанные с недвижимым имуществом, арендой, вычислительной техникой, научными исследованиями, прочие услуги, связанные с предпринимательской деятельностью"
+      }
+    ]
+  },
+  {
+    "contractProcedure": {
+      "publishDate": "2015-01-27T20:02:57.096+05:00",
+      "@schemeVersion": "5.0",
+      "versionNumber": 0,
+      "printForm": {
+        "url": "http://zakupki.gov.ru/epz/contract/printForm/view.html?printFormId=50249954"
+      },
+      "executions": {
+        "execution": {
+          "docExecution": {
+            "documentDate": "2015-01-23",
+            "code": "12",
+            "name": "Акт о приемке выполненных работ",
+            "documentNum": "б/н"
+          },
+          "currency": {
+            "code": "RUB",
+            "name": "Российский рубль"
+          },
+          "product": "в полном объеме",
+          "paidRUR": "871500.00",
+          "paid": "871500.00"
+        },
+        "finalStageExecution": "true",
+        "ordinalNumber": "0",
+        "stage": {
+          "oldStage": {
+            "year": "2014",
+            "month": "12"
+          }
+        }
+      },
+      "id": "52515791"
+    },
+    "scan": [
+      {
+        "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=&docType=contract_document",
+        "docDescription": "доп соглашение  БИС годовой 2014",
+        "fileName": "доп соглашение  БИС годовой 2014.pdf"
+      }
+    ],
+    "number": "7550/14/К",
+    "currentContractStage": "EC",
+    "id": "17861757",
+    "fileVersion": "2014120100_041",
+    "placing": "0",
+    "contractUrl": "http://zakupki.gov.ru/epz/contract/contractCard/common-info.html?reestrNumber=0101000000113000050",
+    "regionCode": "02",
+    "priceChangeReason": {
+      "comment": "дополнительное соглашение",
+      "id": "8361021",
+      "name": "Изменение в случаях, предусмотренных пунктом 6 статьи 161 Бюджетного кодекса Российской Федерации, при уменьшении ранее доведенных до государственного или муниципального заказчика как получателя бюджетных средств лимитов бюджетных обязательств (часть 1 пункт 6 статьи 95 Федерального закона №44-ФЗ от 5 апреля 2013 года )"
+    },
+    "singleCustomerReason": {
+      "id": "1",
+      "name": "Пункт 1 части 2 статьи 55 – Поставки товаров, выполнение работ, оказание услуг относятся к сфере деятельности субъектов естественных монополий"
+    },
+    "signDate": "2013-12-26T00:00:00Z",
+    "modification": {
+      "base": "дополнительное соглашение к государственному контракту от 26.12.13 №7550/14/к",
+      "type": "M",
+      "description": "дополнительное соглашение"
+    },
+    "fz": "44",
+    "foundation": {
+      "singleCustomer": "true"
+    },
+    "price": 871500.0,
+    "publishDate": "2014-11-17T13:02:43Z",
+    "regNum": "0101000000113000050",
+    "versionNumber": 1,
+    "schemaVersion": "4.5",
+    "execution": {
+      "year": "2014",
+      "month": "12"
+    },
+    "customer": {
+      "kpp": "027401001",
+      "regNum": "01010000001",
+      "fullName": "Центральная избирательная комиссия Республики Башкортостан",
+      "inn": "0274053149",
+      "postalAddress": "Российская Федерация, 450008, Республика Башкортостан, г.Уфа, ул.Заки Валиди, 46."
+    },
+    "currency": {
+      "code": "RUB",
+      "name": "Российский рубль"
+    },
+    "suppliers": [
+      {
+        "kpp": "997750001",
+        "factualAddress": "Республика Башкортостан, город Уфа, ул.Ленина, 32/1",
+        "contactPhone": "8-347-2507760",
+        "country": {
+          "countryCode": "643",
+          "countryFullName": "Российская Федерация"
+        },
+        "legalForm": {
+          "code": "12247",
+          "singularName": "Открытое акционерное общество"
+        },
+        "inn": "0274018377",
+        "participantType": "U",
+        "organizationName": "\"Башинформсвязь\"",
+        "contactInfo": {
+          "middleName": "Михайлович",
+          "lastName": "Елшин",
+          "firstName": "Юрий"
+        },
+        "postAddress": "Республика Башкортостан, город Уфа, ул.Ленина, 32/1"
+      }
+    ],
+    "loadId": 82,
+    "misuses": [
+      "prodname"
+    ],
+    "finances": {
+      "budgetLevel": {
+        "code": "02"
+      },
+      "financeSource": "Бюджет Республики Башкортостан",
+      "budgetary": [
+        {
+          "KBK": "80801079900204244221",
+          "price": 152000.0,
+          "month": "12",
+          "substageYear": "2014",
+          "year": "2014",
+          "substageMonth": "12"
+        },
+        {
+          "KBK": "80801079900204242221",
+          "price": 719500.0,
+          "month": "12",
+          "substageYear": "2014",
+          "year": "2014",
+          "substageMonth": "12"
+        }
+      ]
+    },
+    "products": [
+      {
+        "name": "64.20.11.129",
+        "OKPD": {
+          "code": "64.20.11.129"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 719500.0,
+        "sid": "66046428",
+        "price": 719500.0,
+        "quantity": "1"
+      },
+      {
+        "name": "Не указан",
+        "OKPD": {
+          "code": "Не указан"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 769500.0,
+        "sid": "49907695",
+        "price": 769500.0,
+        "quantity": "1"
+      },
+      {
+        "name": "64.20.11.129",
+        "OKPD": {
+          "code": "64.20.11.129"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 152000.0,
+        "sid": "49907696",
+        "price": 152000.0,
+        "quantity": "1"
+      }
+    ],
+    "printFormUrl": "http://zakupki.gov.ru/pgz/printForm?type=CONTRACT_INFO&id=17861757",
+    "economic_sectors": [
+      {
+        "code": "I",
+        "name": "Услуги транспорта, складского хозяйства и связи"
+      }
+    ]
+  },
+  {
+    "contractProcedure": {
+      "paymentDocuments": {
+        "attachment": {
+          "publishedContentId": "0D9FCB73724A003EE053AC11071A2527",
+          "url": "http://zakupki.gov.ru/44fz/filestore/public/1.0/download/rgk/file.html?uid=0D9FCB73724A003EE053AC11071A2527",
+          "docDescription": "платежки ГУП УАЗ",
+          "fileName": "платежки ГУП УАЗ.rar"
+        }
+      },
+      "publishDate": "2015-01-27T18:10:40.546+05:00",
+      "executions": {
+        "execution": {
+          "docExecution": {
+            "documentDate": "2015-01-23",
+            "code": "00",
+            "name": "Платежный документ",
+            "documentNum": "340080"
+          },
+          "currency": {
+            "code": "RUB",
+            "name": "Российский рубль"
+          },
+          "product": "в полном объеме",
+          "paidRUR": "603897.46",
+          "paid": "603897.46"
+        },
+        "finalStageExecution": "true",
+        "ordinalNumber": "0",
+        "stage": {
+          "oldStage": {
+            "year": "2014",
+            "month": "12"
+          }
+        }
+      },
+      "versionNumber": 0,
+      "printForm": {
+        "url": "http://zakupki.gov.ru/epz/contract/printForm/view.html?printFormId=50241685"
+      },
+      "id": "52512579",
+      "@schemeVersion": "5.0"
+    },
+    "scan": [
+      {
+        "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=&docType=contract_document",
+        "docDescription": "доп соглашение ГУП УАЗ",
+        "fileName": "доп соглашение ГУП УАЗ.pdf"
+      }
+    ],
+    "number": "1/2014",
+    "currentContractStage": "EC",
+    "id": "17688443",
+    "fileVersion": "2014120100_038",
+    "placing": "0",
+    "regionCode": "02",
+    "contractUrl": "http://zakupki.gov.ru/epz/contract/contractCard/common-info.html?reestrNumber=0101000000113000051",
+    "singleCustomerReason": {
+      "id": "1",
+      "name": "Пункт 1 части 2 статьи 55 – Поставки товаров, выполнение работ, оказание услуг относятся к сфере деятельности субъектов естественных монополий"
+    },
+    "signDate": "2013-12-26T00:00:00Z",
+    "modification": {
+      "type": "M",
+      "description": "изменение сведений"
+    },
+    "fz": "44",
+    "foundation": {
+      "singleCustomer": "true"
+    },
+    "price": 603897.46,
+    "publishDate": "2014-11-05T13:53:28Z",
+    "regNum": "0101000000113000051",
+    "versionNumber": 2,
+    "schemaVersion": "4.5",
+    "execution": {
+      "year": "2014",
+      "month": "12"
+    },
+    "customer": {
+      "kpp": "027401001",
+      "regNum": "01010000001",
+      "fullName": "Центральная избирательная комиссия Республики Башкортостан",
+      "inn": "0274053149",
+      "postalAddress": "Российская Федерация, 450008, Республика Башкортостан, г.Уфа, ул.Заки Валиди, 46."
+    },
+    "currency": {
+      "code": "RUB",
+      "name": "Российский рубль"
+    },
+    "suppliers": [
+      {
+        "kpp": "027401001",
+        "factualAddress": "450008, г.Уфа, ул.Советская, д.18",
+        "contactPhone": "8-3472-764239",
+        "country": {
+          "countryCode": "643",
+          "countryFullName": "Российская Федерация"
+        },
+        "legalForm": {
+          "code": "15000",
+          "singularName": "Унитарное предприятие"
+        },
+        "inn": "0274003437",
+        "participantType": "U",
+        "organizationName": "ГУП РБ \"Управление административными зданиями\"",
+        "contactInfo": {
+          "middleName": "Салаватович",
+          "lastName": "Байбулов",
+          "firstName": "Ринат"
+        },
+        "postAddress": "450008, г.Уфа, ул.Советская, д.18"
+      }
+    ],
+    "loadId": 82,
+    "misuses": [
+      "prodname"
+    ],
+    "finances": {
+      "budgetLevel": {
+        "code": "02"
+      },
+      "financeSource": "Бюджет Республики Башкортостан",
+      "budgetary": [
+        {
+          "KBK": "80801079900204244225",
+          "price": 470207.75,
+          "month": "12",
+          "substageYear": "2013",
+          "year": "2014",
+          "substageMonth": "12"
+        },
+        {
+          "KBK": "80801079900204244223",
+          "price": 133689.71,
+          "month": "12",
+          "substageYear": "2013",
+          "year": "2014",
+          "substageMonth": "12"
+        }
+      ]
+    },
+    "products": [
+      {
+        "name": "40.30.10.113",
+        "OKPD": {
+          "code": "40.30.10.113"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 48896.52,
+        "sid": "49909171",
+        "price": 48896.52,
+        "quantity": "1"
+      },
+      {
+        "name": "41.00.11.000",
+        "OKPD": {
+          "code": "41.00.11.000"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 2282.0,
+        "sid": "49909172",
+        "price": 2282.0,
+        "quantity": "1"
+      },
+      {
+        "name": "40.11.10.116",
+        "OKPD": {
+          "code": "40.11.10.116"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 82511.19,
+        "sid": "49909173",
+        "price": 82511.19,
+        "quantity": "1"
+      },
+      {
+        "name": "93.05.12.190",
+        "OKPD": {
+          "code": "93.05.12.190"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 470207.75,
+        "sid": "49909174",
+        "price": 470207.75,
+        "quantity": "1"
+      }
+    ],
+    "printFormUrl": "http://zakupki.gov.ru/pgz/printForm?type=CONTRACT_INFO&id=17688443",
+    "economic_sectors": [
+      {
+        "code": "E",
+        "name": "Электроэнергия, газ, пар и вода"
+      },
+      {
+        "code": "O",
+        "name": "Прочие коммунальные, социальные и персональные услуги"
+      }
+    ]
+  },
+  {
+    "contractProcedure": {
+      "publishDate": "2015-01-27T20:05:42.775+05:00",
+      "@schemeVersion": "5.0",
+      "versionNumber": 0,
+      "printForm": {
+        "url": "http://zakupki.gov.ru/epz/contract/printForm/view.html?printFormId=50250071"
+      },
+      "executions": {
+        "execution": {
+          "docExecution": {
+            "documentDate": "2015-01-23",
+            "code": "12",
+            "name": "Акт о приемке выполненных работ",
+            "documentNum": "б/н"
+          },
+          "currency": {
+            "code": "RUB",
+            "name": "Российский рубль"
+          },
+          "product": "в полном объеме",
+          "paidRUR": "366000.00",
+          "paid": "366000.00"
+        },
+        "finalStageExecution": "true",
+        "ordinalNumber": "0",
+        "stage": {
+          "oldStage": {
+            "year": "2014",
+            "month": "12"
+          }
+        }
+      },
+      "id": "52515850"
+    },
+    "scan": [
+      {
+        "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=&docType=contract_document",
+        "docDescription": "доп соглашение БИС РФ годовой 2014",
+        "fileName": "доп соглашение БИС РФ годовой 2014.pdf"
+      }
+    ],
+    "number": "7550/14/К/2",
+    "currentContractStage": "EC",
+    "id": "17864056",
+    "fileVersion": "2014120100_041",
+    "placing": "0",
+    "contractUrl": "http://zakupki.gov.ru/epz/contract/contractCard/common-info.html?reestrNumber=0101000000113000052",
+    "regionCode": "02",
+    "priceChangeReason": {
+      "comment": "дополнительное соглашение",
+      "id": "3",
+      "name": "Возможность изменения предусмотрена документацией об аукционе, конкурсной документацией или заказ размещается у единственного поставщика (пункт 16 части 2 статьи 55), при изменении потребности в товарах, на поставку которых заключен контракт (часть 6 статьи 9 Федерального закона №94-ФЗ от 21 июля 2005 года)"
+    },
+    "singleCustomerReason": {
+      "id": "1",
+      "name": "Пункт 1 части 2 статьи 55 – Поставки товаров, выполнение работ, оказание услуг относятся к сфере деятельности субъектов естественных монополий"
+    },
+    "signDate": "2013-12-26T00:00:00Z",
+    "modification": {
+      "base": "дополнительное соглашение к государственному контракту от 26.12.13 №7550/14/к/2",
+      "type": "M",
+      "description": "дополнительное соглашение"
+    },
+    "fz": "44",
+    "foundation": {
+      "singleCustomer": "true"
+    },
+    "price": 366000.0,
+    "publishDate": "2014-11-17T13:31:00Z",
+    "regNum": "0101000000113000052",
+    "versionNumber": 2,
+    "schemaVersion": "4.5",
+    "execution": {
+      "year": "2014",
+      "month": "12"
+    },
+    "customer": {
+      "kpp": "027401001",
+      "regNum": "01010000001",
+      "fullName": "Центральная избирательная комиссия Республики Башкортостан",
+      "inn": "0274053149",
+      "postalAddress": "Российская Федерация, 450008, Республика Башкортостан, г.Уфа, ул.Заки Валиди, 46."
+    },
+    "currency": {
+      "code": "RUB",
+      "name": "Российский рубль"
+    },
+    "suppliers": [
+      {
+        "kpp": "997750001",
+        "factualAddress": "Республика Башкортостан, город Уфа, ул.Ленина, 32/1",
+        "contactPhone": "8-347-2507760",
+        "country": {
+          "countryCode": "643",
+          "countryFullName": "Российская Федерация"
+        },
+        "legalForm": {
+          "code": "12247",
+          "singularName": "Открытое акционерное общество"
+        },
+        "inn": "0274018377",
+        "participantType": "U",
+        "organizationName": "\"Башинформсвязь\"",
+        "contactInfo": {
+          "middleName": "Михайлович",
+          "lastName": "Елшин",
+          "firstName": "Юрий"
+        },
+        "postAddress": "Республика Башкортостан, город Уфа, ул.Ленина, 32/1"
+      }
+    ],
+    "loadId": 82,
+    "misuses": [
+      "prodname"
+    ],
+    "finances": {
+      "budgetLevel": {
+        "code": "01"
+      },
+      "financeSource": "Российская Федерация",
+      "budgetary": [
+        {
+          "KBK": "30801079490019244221",
+          "price": 46000.0,
+          "month": "12",
+          "substageYear": "2014",
+          "year": "2014",
+          "substageMonth": "12"
+        },
+        {
+          "KBK": "30801079490019242221",
+          "price": 320000.0,
+          "month": "12",
+          "substageYear": "2014",
+          "year": "2014",
+          "substageMonth": "12"
+        }
+      ]
+    },
+    "products": [
+      {
+        "name": "64.20.28.190",
+        "OKPD": {
+          "code": "64.20.28.190"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 46000.0,
+        "sid": "49909625",
+        "price": 46000.0,
+        "quantity": "1"
+      },
+      {
+        "name": "64.20.11.129",
+        "OKPD": {
+          "code": "64.20.11.129"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 320000.0,
+        "sid": "66051991",
+        "price": 320000.0,
+        "quantity": "1"
+      }
+    ],
+    "printFormUrl": "http://zakupki.gov.ru/pgz/printForm?type=CONTRACT_INFO&id=17864056",
+    "economic_sectors": [
+      {
+        "code": "I",
+        "name": "Услуги транспорта, складского хозяйства и связи"
+      }
+    ]
+  },
+  {
+    "contractProcedure": {
+      "executions": {
+        "execution": [
+          {
+            "product": "электроэнергия за январь 2014",
+            "documentDate": "2014-01-30+04:00",
+            "documentName": "платежное поручение",
+            "paid": "168290.32",
+            "documentNum": "100007"
+          },
+          {
+            "product": "электроэнергия за январь 2014",
+            "documentDate": "2014-02-19+04:00",
+            "documentName": "платежное поручение",
+            "paid": "36994.39",
+            "documentNum": "1000054"
+          },
+          {
+            "product": "электроэнергия за фераль 2014",
+            "documentDate": "2014-02-19+04:00",
+            "documentName": "платежное поручение",
+            "paid": "94734.29",
+            "documentNum": "100056"
+          },
+          {
+            "product": "электроэнергия за февраль 2014",
+            "documentDate": "2014-03-18+04:00",
+            "documentName": "платежное поручение",
+            "paid": "12781.56",
+            "documentNum": "100118"
+          },
+          {
+            "product": "электроэнергия за март 2014",
+            "documentDate": "2014-03-18+04:00",
+            "documentName": "платежное поручение",
+            "paid": "76918.83",
+            "documentNum": "100117"
+          },
+          {
+            "product": "электроэнергия за март 2014",
+            "documentDate": "2014-04-17+04:00",
+            "documentName": "платежное поручение",
+            "paid": "29763.82",
+            "documentNum": "100170"
+          },
+          {
+            "product": "электроэнергия за апрель 2014",
+            "documentDate": "2014-04-17+04:00",
+            "documentName": "платежное поручение",
+            "paid": "76060.11",
+            "documentNum": "100171"
+          },
+          {
+            "product": "электроэнергия за апрель 2014",
+            "documentDate": "2014-05-16+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1638.96",
+            "documentNum": "100246"
+          },
+          {
+            "product": "электроэнергия за май 2014",
+            "documentDate": "2014-05-16+04:00",
+            "documentName": "платежное поручение",
+            "paid": "55765.81",
+            "documentNum": "100247"
+          },
+          {
+            "product": "электроэнергия за май 2014",
+            "documentDate": "2014-06-18+04:00",
+            "documentName": "платежное поручение",
+            "paid": "10472.02",
+            "documentNum": "100301"
+          },
+          {
+            "product": "электроэнергия за июнь2014",
+            "documentDate": "2014-06-18+04:00",
+            "documentName": "платежное поручение",
+            "paid": "47103.12",
+            "documentNum": "100302"
+          },
+          {
+            "product": "электроэнергия за июнь2014",
+            "documentDate": "2014-07-15+04:00",
+            "documentName": "платежное поручение",
+            "paid": "8892.13",
+            "documentNum": "100357"
+          },
+          {
+            "product": "электроэнергия за июль2014",
+            "documentDate": "2014-07-15+04:00",
+            "documentName": "платежное поручение",
+            "paid": "40298.88",
+            "documentNum": "100358"
+          },
+          {
+            "product": "электроэнергия за июль2014",
+            "documentDate": "2014-08-15+04:00",
+            "documentName": "платежное поручение",
+            "paid": "23376.28",
+            "documentNum": "100416"
+          },
+          {
+            "product": "электроэнергия за август 2014",
+            "documentDate": "2014-08-15+04:00",
+            "documentName": "платежное поручение",
+            "paid": "12452.80",
+            "documentNum": "100417"
+          },
+          {
+            "product": "электроэнергия за август2014",
+            "documentDate": "2014-09-17+04:00",
+            "documentName": "платежное поручение",
+            "paid": "35745.21",
+            "documentNum": "100463"
+          },
+          {
+            "product": "электроэнергия за август2014",
+            "documentDate": "2014-08-15+04:00",
+            "documentName": "платежное поручение",
+            "paid": "33155.00",
+            "documentNum": "100418"
+          },
+          {
+            "product": "электроэнергия за сентябрь 2014",
+            "documentDate": "2014-09-17+04:00",
+            "documentName": "платежное поручение",
+            "paid": "57576.98",
+            "documentNum": "100464"
+          },
+          {
+            "product": "электроэнергия за октябрь2014",
+            "documentDate": "2014-10-17+04:00",
+            "documentName": "платежное поручение",
+            "paid": "70994.16",
+            "documentNum": "100501"
+          },
+          {
+            "product": "электроэнергия за сентябрь2014",
+            "documentDate": "2014-10-17+04:00",
+            "documentName": "платежное поручение",
+            "paid": "41874.80",
+            "documentNum": "100500"
+          },
+          {
+            "product": "электроэнергия за октябрь2014",
+            "documentDate": "2014-11-14+03:00",
+            "documentName": "платежное поручение",
+            "paid": "54095.78",
+            "documentNum": "100571"
+          },
+          {
+            "product": "электроэнергия за ноябрь 2014",
+            "documentDate": "2014-12-12+03:00",
+            "documentName": "платежное поручение",
+            "paid": "21448.53",
+            "documentNum": "100644"
+          },
+          {
+            "product": "электроэнергия за ноябрь 2014г",
+            "documentDate": "2014-11-11+03:00",
+            "documentName": "платежное поручение",
+            "paid": "89566.22",
+            "documentNum": "100572"
+          },
+          {
+            "product": "электроэнергия за ноябрь 2014г",
+            "documentDate": "2014-12-17+03:00",
+            "documentName": "платежное поручение",
+            "paid": "13041.01",
+            "documentNum": "100643"
+          },
+          {
+            "product": "электроэнергия за октябрь 2014г",
+            "documentDate": "2014-11-14+03:00",
+            "documentName": "платежное поручение",
+            "paid": "2865.52",
+            "documentNum": "100570"
+          },
+          {
+            "product": "электроэнергия за сентябрь 2014г",
+            "documentDate": "2014-10-17+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1590.02",
+            "documentNum": "100499"
+          },
+          {
+            "product": "электроэнергия за январь 2014г",
+            "documentDate": "2014-02-19+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1805.45",
+            "documentNum": "100055"
+          },
+          {
+            "product": "электроэнергия за февраль 2014г",
+            "documentDate": "2014-03-18+04:00",
+            "documentName": "платежное поручение",
+            "paid": "2377.69",
+            "documentNum": "100116"
+          },
+          {
+            "product": "электроэнергия за март 2014г",
+            "documentDate": "2014-04-17+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1971.36",
+            "documentNum": "100169"
+          },
+          {
+            "product": "электроэнергия за апрель 2014г",
+            "documentDate": "2014-05-19+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1574.88",
+            "documentNum": "100249"
+          },
+          {
+            "product": "электроэнергия за май 2014г",
+            "documentDate": "2014-06-18+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1056.14",
+            "documentNum": "100300"
+          },
+          {
+            "product": "электроэнергия за июнь 2014г",
+            "documentDate": "2014-07-15+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1342.71",
+            "documentNum": "100356"
+          },
+          {
+            "product": "электроэнергия за июль 2014г",
+            "documentDate": "2014-08-15+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1478.33",
+            "documentNum": "100415"
+          },
+          {
+            "product": "электроэнергия за август 2014г",
+            "documentDate": "2014-09-17+04:00",
+            "documentName": "платежное поручение",
+            "paid": "896.89",
+            "documentNum": "100462"
+          }
+        ],
+        "finalStageExecution": "true",
+        "ordinalNumber": "0",
+        "stage": {
+          "year": "2014",
+          "month": "12"
+        }
+      },
+      "@schemeVersion": "4.6",
+      "publishDate": "2014-12-25T17:04:20.607+05:00",
+      "id": "51878560"
+    },
+    "scan": [
+      {
+        "url": "http://zakupki.gov.ru/44fz/filestore/public/1.0/download/rgk2/file.html?uid=2A34DAAF87E7004EE053AC11071AFF0E",
+        "docDescription": "IMG_0021",
+        "fileName": "IMG_0021.pdf"
+      },
+      {
+        "url": "http://zakupki.gov.ru/44fz/filestore/public/1.0/download/rgk2/file.html?uid=2A34DBF950240142E053AC11071A2410",
+        "docDescription": "IMG_0022",
+        "fileName": "IMG_0022.pdf"
+      }
+    ],
+    "number": "16",
+    "currentContractStage": "E",
+    "id": "25636754",
+    "fileVersion": "2016020100_011",
+    "regionCode": "02",
+    "contractUrl": "http://zakupki.gov.ru/epz/contract/contractCard/common-info.html?reestrNumber=0101000000213000012",
+    "singleCustomerReason": {
+      "code": "3",
+      "name": "Пункт 2.1 части 2 статьи 55 – Заключается договор энергоснабжения или купли-продажи электрической энергии с гарантирующим поставщиком электрической энергии"
+    },
+    "signDate": "2013-12-25T00:00:00Z",
+    "fz": "44",
+    "documentBase": "распоряжение главы сельского поселения  № 89  от 24.12.2013",
+    "price": 2990400.0,
+    "protocolDate": "2013-12-24",
+    "publishDate": "2016-01-26T11:16:39.512+05:00",
+    "regNum": "0101000000213000012",
+    "versionNumber": 2,
+    "schemaVersion": "6.0",
+    "execution": {
+      "startDate": "2014-01-01T00:00:00Z",
+      "endDate": "2016-12-31T00:00:00Z"
+    },
+    "customer": {
+      "kpp": "025601001",
+      "regNum": "01010000002",
+      "fullName": "Администрация сельского поселения Тирлянский сельсовет муниципального района Белорецкий район Республики Башкортостан",
+      "inn": "0256003995",
+      "postalAddress": "Российская Федерация, 453530, Башкортостан Респ, Белорецкий р-н, Тирлянский с, Первомайская, 75"
+    },
+    "currency": {
+      "code": "RUB",
+      "name": "Российский рубль"
+    },
+    "suppliers": [
+      {
+        "kpp": "025250001",
+        "legalForm": {
+          "code": "12300",
+          "singularName": "Общество с ограниченной ответственностью"
+        },
+        "factualAddress": "450000 Республика Башкортостан г.Уфа, улица Ст.Злобина,31\\4",
+        "contactPhone": "8-34792-52019",
+        "contactEMail": "BIR_ORE@BASHESK.RU",
+        "inn": "0275038496",
+        "participantType": "U",
+        "organizationName": "Энергитическая сбытовая компания Башкортостан",
+        "contactInfo": {
+          "middleName": "Викторович",
+          "lastName": "Сазонов",
+          "firstName": "Владислав"
+        }
+      }
+    ],
+    "loadId": 82,
+    "finances": {
+      "budgetLevel": {
+        "code": "03"
+      },
+      "budgetFunds": {
+        "stages": [
+          {
+            "endDate": "2014-12-31T00:00:00Z",
+            "payments": {
+              "KBK": "79105032800605244223",
+              "paymentYear": "2014",
+              "paymentSumRUR": "1100000.00",
+              "paymentMonth": "12",
+              "paymentSum": "1100000.00"
+            }
+          },
+          {
+            "endDate": "2014-12-31T00:00:00Z",
+            "payments": {
+              "KBK": "79101042500204244223",
+              "paymentYear": "2014",
+              "paymentSumRUR": "30000.00",
+              "paymentMonth": "12",
+              "paymentSum": "30000.00"
+            }
+          },
+          {
+            "endDate": "2015-12-31T00:00:00Z",
+            "payments": {
+              "KBK": "79105032800605244223",
+              "paymentYear": "2015",
+              "paymentSumRUR": "966100.00",
+              "paymentMonth": "12",
+              "paymentSum": "966100.00"
+            }
+          },
+          {
+            "endDate": "2015-12-31T00:00:00Z",
+            "payments": {
+              "KBK": "79101042500204244223",
+              "paymentYear": "2015",
+              "paymentSumRUR": "33600.00",
+              "paymentMonth": "12",
+              "paymentSum": "33600.00"
+            }
+          },
+          {
+            "endDate": "2016-12-31T00:00:00Z",
+            "payments": {
+              "paymentSum": "35000.00",
+              "paymentYear": "2016",
+              "paymentSumRUR": "35000.00",
+              "paymentMonth": "12"
+            }
+          },
+          {
+            "endDate": "2016-12-31T00:00:00Z",
+            "payments": {
+              "paymentSum": "825700.00",
+              "paymentYear": "2016",
+              "paymentSumRUR": "825700.00",
+              "paymentMonth": "12"
+            }
+          }
+        ]
+      },
+      "budget": {
+        "code": "01030471",
+        "name": "Бюджет сельского поселения Тирлянский сельсовет муниципального района Белорецкий район Республики Башкортостан"
+      }
+    },
+    "products": [
+      {
+        "name": "Электроэнергия, произведенная электростанциями общего пользования прочими",
+        "OKEI": {
+          "code": "245",
+          "name": "КВТ.Ч"
+        },
+        "price": 4.02,
+        "OKPD2": {
+          "code": "35.11.10.119",
+          "name": "Электроэнергия, произведенная нетиповыми электростанциями общего назначения"
+        },
+        "sid": "49374763",
+        "sum": 2990400.0,
+        "quantity": "743141.15"
+      }
+    ],
+    "printFormUrl": "http://zakupki.gov.ru/epz/contract/printForm/view.html?xml=true&contractInfoId=25636754"
+  },
+  {
+    "contractProcedure": {
+      "executions": {
+        "execution": {
+          "product": ";",
+          "documentName": "платежное поручение",
+          "documentDate": "2014-11-21+03:00",
+          "paid": "37979.00",
+          "documentNum": "733043",
+          "quantityContractSubjects": {
+            "quantityContractSubject": {
+              "sid": "69052253"
+            }
+          }
+        },
+        "finalStageExecution": "true",
+        "ordinalNumber": "0",
+        "stage": {
+          "year": "2014",
+          "month": "12"
+        }
+      },
+      "@schemeVersion": "4.6",
+      "publishDate": "2014-12-31T15:27:01.956+05:00",
+      "id": "52020579"
+    },
+    "scan": [
+      {
+        "url": "http://zakupki.gov.ru/44fz/filestore/public/1.0/download/rgk/file.html?uid=0B5361EBAE8100DEE053AC11071A64BD",
+        "docDescription": "договор поставки на газ 2014 г",
+        "fileName": "договор поставки на газ 2014 г.rar"
+      }
+    ],
+    "number": "68035",
+    "currentContractStage": "E",
+    "id": "18760298",
+    "fileVersion": "2015010100_014",
+    "placing": "0",
+    "regionCode": "02",
+    "contractUrl": "http://zakupki.gov.ru/epz/contract/contractCard/common-info.html?reestrNumber=0101000000213000013",
+    "singleCustomerReason": {
+      "id": "2",
+      "name": "Пункт 2 части 2 статьи 55 – Осуществляется оказание услуг водоснабжения, водоотведения, канализации, теплоснабжения, газоснабжения (за исключением услуг по реализации сжиженного газа), подключение (присоединение) к сетям инженерно-технического обеспечения по регулируемым в соответствии с законодательством Российской Федерации ценам (тарифам)"
+    },
+    "signDate": "2013-12-25T00:00:00Z",
+    "modification": {
+      "type": "C",
+      "description": "тех.ошибка"
+    },
+    "fz": "44",
+    "documentBase": "распоряжение главы сельского поселения № 89 от 24.12.2013",
+    "foundation": {
+      "singleCustomer": "true"
+    },
+    "price": 37979.0,
+    "protocolDate": "2013-12-24+04:00",
+    "publishDate": "2014-12-29T10:43:32.194+05:00",
+    "regNum": "0101000000213000013",
+    "versionNumber": 1,
+    "schemaVersion": "4.6",
+    "execution": {
+      "year": "2014",
+      "month": "12"
+    },
+    "customer": {
+      "kpp": "025601001",
+      "regNum": "01010000002",
+      "fullName": "Администрация сельского поселения Тирлянский сельсовет муниципального района Белорецкий район Республики Башкортостан",
+      "inn": "0256003995",
+      "postalAddress": "Российская Федерация, 453530, Башкортостан Респ, Белорецкий р-н, Тирлянский с, Первомайская, 75"
+    },
+    "currency": {
+      "code": "RUB",
+      "name": "Российский рубль"
+    },
+    "suppliers": [
+      {
+        "kpp": "997250001",
+        "factualAddress": "450077  Республика Башкортостан гор Уфа улица Ленина 5\\4",
+        "contactPhone": "8-347-2799511",
+        "country": {
+          "countryCode": "643",
+          "countryFullName": "Российская Федерация"
+        },
+        "legalForm": {
+          "code": "12165",
+          "singularName": "Общество с ограниченной ответственностью"
+        },
+        "inn": "0276046524",
+        "participantType": "U",
+        "organizationName": "ООО\" Газпром межрегионгаз Уфа\"",
+        "contactInfo": {
+          "middleName": "Равилович",
+          "lastName": "Даминев",
+          "firstName": "Ильдар"
+        },
+        "postAddress": "450077  Республика Башкортостан гор Уфа улица Ленина 5\\4"
+      }
+    ],
+    "loadId": 82,
+    "finances": {
+      "budgetLevel": {
+        "code": "03"
+      },
+      "financeSource": "бюджет сельского поселения Тирлянский сельсовет",
+      "budget": {
+        "code": "01030471",
+        "name": "Бюджет сельского поселения Тирлянский сельсовет муниципального района Белорецкий район Республики Башкортостан"
+      },
+      "budgetary": [
+        {
+          "comment": "ФЗ131-03_98\\\\РП-А-0100\\3-00-000-000\\0",
+          "KBK": "79101040020400244223",
+          "price": 37979.0,
+          "month": "12",
+          "substageYear": "2014",
+          "year": "2014",
+          "substageMonth": "12"
+        }
+      ]
+    },
+    "products": [
+      {
+        "name": "газ горючий",
+        "OKPD": {
+          "code": "40.21.10.216",
+          "name": "Газ горючий природный - топливо для коммунально-бытового потребления"
+        },
+        "OKEI": {
+          "code": "113",
+          "name": "М3"
+        },
+        "sum": 37979.0,
+        "sid": "69052253",
+        "price": 5274.86,
+        "quantity": "7.2"
+      }
+    ],
+    "printFormUrl": "http://zakupki.gov.ru/epz/contract/printForm/view.html?contractInfoId=%s18760298",
+    "economic_sectors": [
+      {
+        "code": "E",
+        "name": "Электроэнергия, газ, пар и вода"
+      }
+    ]
+  },
+  {
+    "contractProcedure": {
+      "executions": {
+        "execution": [
+          {
+            "product": "услуги связи за январь 2014",
+            "documentDate": "2014-02-12+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1277.78",
+            "documentNum": "100039"
+          },
+          {
+            "product": "услуги связи за февраль 2014",
+            "documentDate": "2014-03-18+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1726.57",
+            "documentNum": "100113"
+          },
+          {
+            "product": "услуги за связь за март 2014",
+            "documentDate": "2014-04-10+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1749.02",
+            "documentNum": "100158"
+          },
+          {
+            "product": "услуги связи за март 2014",
+            "documentDate": "2014-04-24+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1542.14",
+            "documentNum": "295122"
+          },
+          {
+            "product": "услуги связи за апрель 2014",
+            "documentDate": "2014-05-13+04:00",
+            "documentName": "платежное поручение",
+            "paid": "89.38",
+            "documentNum": "100243"
+          },
+          {
+            "product": "услуги связи за май",
+            "documentDate": "2014-06-09+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1629.93",
+            "documentNum": "100284"
+          },
+          {
+            "product": "услуги связи за июнь 2014",
+            "documentDate": "2014-07-09+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1516.89",
+            "documentNum": "100351"
+          },
+          {
+            "product": "услуги связи за июль 2014 г",
+            "documentDate": "2014-08-11+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1528.48",
+            "documentNum": "100411"
+          },
+          {
+            "product": "услуги связи за август 2014",
+            "documentDate": "2014-09-12+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1373.82",
+            "documentNum": "100459"
+          },
+          {
+            "product": "услуги связи за сентябрь 2014 г",
+            "documentDate": "2014-10-14+04:00",
+            "documentName": "платежное поручение",
+            "paid": "1545.23",
+            "documentNum": "100498"
+          },
+          {
+            "product": "услуги связи за октябрь 2014 г",
+            "documentDate": "2014-11-10+03:00",
+            "documentName": "платежное поручение",
+            "paid": "1457.86",
+            "documentNum": "712337"
+          },
+          {
+            "product": "услуги связи за октябрь 2014",
+            "documentDate": "2014-11-11+03:00",
+            "documentName": "платежное поручение",
+            "paid": "30.38",
+            "documentNum": "100559"
+          },
+          {
+            "product": "услуги связи за ноябрь 2014",
+            "documentDate": "2014-12-09+03:00",
+            "documentName": "платежное поручение",
+            "paid": "1550.73",
+            "documentNum": "100630"
+          },
+          {
+            "product": "услуги связи за декабрь",
+            "documentDate": "2014-12-19+03:00",
+            "documentName": "платежное поручение",
+            "paid": "3981.79",
+            "documentNum": "100653"
+          }
+        ],
+        "finalStageExecution": "true",
+        "ordinalNumber": "0",
+        "stage": {
+          "year": "2014",
+          "month": "12"
+        }
+      },
+      "@schemeVersion": "4.6",
+      "publishDate": "2014-12-29T14:29:20.391+05:00",
+      "id": "51846402"
+    },
+    "scan": [
+      {
+        "url": "http://zakupki.gov.ru/44fz/filestore/public/1.0/download/rgk/file.html?uid=0B57D6AD6C160010E053AC11071ACCBA",
+        "docDescription": "договор на  услуги связи 2014",
+        "fileName": "договор на  услуги связи 2014.rar"
+      }
+    ],
+    "number": "2927604",
+    "currentContractStage": "E",
+    "id": "18857090",
+    "fileVersion": "2015010100_016",
+    "placing": "0",
+    "regionCode": "02",
+    "contractUrl": "http://zakupki.gov.ru/epz/contract/contractCard/common-info.html?reestrNumber=0101000000213000014",
+    "singleCustomerReason": {
+      "id": "1",
+      "name": "Пункт 1 части 2 статьи 55 – Поставки товаров, выполнение работ, оказание услуг относятся к сфере деятельности субъектов естественных монополий"
+    },
+    "signDate": "2013-12-25T00:00:00Z",
+    "modification": {
+      "type": "C",
+      "description": "исправление периода"
+    },
+    "fz": "44",
+    "documentBase": "Распоряжение главы сельского поселения 89 от 24.12.2013 г",
+    "foundation": {
+      "singleCustomer": "true"
+    },
+    "price": 21000.0,
+    "protocolDate": "2013-12-24+04:00",
+    "publishDate": "2014-12-29T14:26:31.244+05:00",
+    "regNum": "0101000000213000014",
+    "versionNumber": 2,
+    "schemaVersion": "4.6",
+    "execution": {
+      "year": "2014",
+      "month": "12"
+    },
+    "customer": {
+      "kpp": "025601001",
+      "regNum": "01010000002",
+      "fullName": "Администрация сельского поселения Тирлянский сельсовет муниципального района Белорецкий район Республики Башкортостан",
+      "inn": "0256003995",
+      "postalAddress": "Российская Федерация, 453530, Башкортостан Респ, Белорецкий р-н, Тирлянский с, Первомайская, 75"
+    },
+    "currency": {
+      "code": "RUB",
+      "name": "Российский рубль"
+    },
+    "suppliers": [
+      {
+        "kpp": "997750001",
+        "factualAddress": "450000 Республика Башкортостан город Уфа улица Ленина 32\\1",
+        "contactPhone": "8-34792-53347",
+        "country": {
+          "countryCode": "643",
+          "countryFullName": "Российская Федерация"
+        },
+        "legalForm": {
+          "code": "12247",
+          "singularName": "Открытое акционерное общество"
+        },
+        "inn": "0274018377",
+        "participantType": "U",
+        "organizationName": "ОАО БАШИНФОРМСВЯЗЬ",
+        "contactInfo": {
+          "middleName": "Викторович",
+          "lastName": "Нарушевич",
+          "firstName": "Дмитрий"
+        },
+        "postAddress": "450000 Республика Башкортостан город Уфа улица Ленина 32\\1",
+        "contactFax": "8-34792-53347"
+      }
+    ],
+    "loadId": 82,
+    "finances": {
+      "budgetLevel": {
+        "code": "03"
+      },
+      "financeSource": "Бюджет сельского поселения Тирлянский сельсовет муниципального района Белорецкий район РБ",
+      "budget": {
+        "code": "01030471",
+        "name": "Бюджет сельского поселения Тирлянский сельсовет муниципального района Белорецкий район Республики Башкортостан"
+      },
+      "budgetary": [
+        {
+          "comment": "ФЗ131-03_98\\\\РП-А-0100\\3-00-000-000\\0",
+          "KBK": "79101040020400242221",
+          "price": 21000.0,
+          "month": "12",
+          "substageYear": "2014",
+          "year": "2014",
+          "substageMonth": "12"
+        }
+      ]
+    },
+    "products": [
+      {
+        "name": "Услуги местной телефонной связи",
+        "OKPD": {
+          "code": "64.20.11.111",
+          "name": "Предоставление доступа к сети связи"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 21000.0,
+        "sid": "49548675",
+        "price": 21000.0,
+        "quantity": "1.0"
+      }
+    ],
+    "printFormUrl": "http://zakupki.gov.ru/epz/contract/printForm/view.html?contractInfoId=%s18857090",
+    "economic_sectors": [
+      {
+        "code": "I",
+        "name": "Услуги транспорта, складского хозяйства и связи"
+      }
+    ]
+  },
+  {
+    "contractProcedure": {
+      "paymentDocuments": {
+        "attachment": {
+          "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=118560208&docType=contract_document",
+          "docRegNumber": null,
+          "docDescription": "расторжение",
+          "fileName": "расторжение.jpg"
+        }
+      },
+      "terminations": {
+        "termination": {
+          "terminationDate": "2014-07-21",
+          "reason": "Соглашение о расторжении 3/13-89",
+          "paid": "23395.87",
+          "terminationReason": {
+            "id": "8361024",
+            "name": "По соглашению сторон"
+          }
+        }
+      },
+      "publishDate": "2014-07-23T09:32:06Z",
+      "executions": {
+        "execution": [
+          {
+            "product": "с/ф, акт 22-06.01.14г",
+            "documentDate": "2014-03-31",
+            "documentName": "Платежное поручение",
+            "paid": "19915.49",
+            "documentNum": "151610"
+          },
+          {
+            "product": "с/ф23-06.02.14 акт 23-06.01.14г.",
+            "documentDate": "2014-03-31",
+            "documentName": "Платежное поручение",
+            "paid": "3480.38",
+            "documentNum": "151604"
+          }
+        ],
+        "finalStageExecution": "1",
+        "ordinalNumber": "1",
+        "stage": {
+          "year": "2014",
+          "month": "12"
+        }
+      },
+      "versionNumber": 1,
+      "printForm": {
+        "url": "http://zakupki.gov.ru/pgz/printForm?type=CONTRACT_PROCEDURE&id=50133915"
+      },
+      "id": "50133915",
+      "@schemeVersion": "4.4"
+    },
+    "attachments": {
+      "attachment": [
+        {
+          "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=144624476&docType=contract_document",
+          "docDescription": "дс",
+          "fileName": "дс.jpg"
+        }
+      ]
+    },
+    "scan": [
+      {
+        "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=144623673&docType=contract_document",
+        "docDescription": "д1",
+        "fileName": "д1.jpg"
+      },
+      {
+        "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=144623674&docType=contract_document",
+        "docDescription": "д2",
+        "fileName": "д2.jpg"
+      },
+      {
+        "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=144623675&docType=contract_document",
+        "docDescription": "д3",
+        "fileName": "д3.jpg"
+      },
+      {
+        "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=144623676&docType=contract_document",
+        "docDescription": "д4",
+        "fileName": "д4.jpg"
+      }
+    ],
+    "number": "3/13-623",
+    "currentContractStage": "ET",
+    "id": "14765363",
+    "fileVersion": "20140714102826_040",
+    "placing": "0",
+    "regionCode": "02",
+    "contractUrl": "http://zakupki.gov.ru/epz/contract/contractCard/common-info.html?reestrNumber=0101100000113000305",
+    "singleCustomerReason": {
+      "id": "6",
+      "name": "Пункт 5 части 2 статьи 55 – Возникла потребность в работах или услугах, выполнение или оказание которых может осуществляться исключительно органами исполнительной власти в соответствии с их полномочиями или подведомственными им государственными учреждениями, государственными унитарными предприятиями"
+    },
+    "signDate": "2013-12-23T00:00:00Z",
+    "modification": {
+      "base": "Дополнительное соглашение 3/13-23 от 25.03.2014",
+      "type": "M",
+      "description": "Дополнительное соглашение 3/13-23 от 25.03.2014"
+    },
+    "fz": "44",
+    "documentBase": "п.5 ч.2 статьи 55 Федерального закона от21.07.2005г. №94-ФЗ \"О размещении заказов на поставки товаров, выполнение работ, оказание услуг для государственных и муниципальных нужд\"",
+    "foundation": {
+      "singleCustomer": "true"
+    },
+    "price": 300000.0,
+    "publishDate": "2014-03-25T14:37:59Z",
+    "regNum": "0101100000113000305",
+    "versionNumber": 3,
+    "schemaVersion": "1.0",
+    "execution": {
+      "year": "2014",
+      "month": "12"
+    },
+    "customer": {
+      "kpp": "027501001",
+      "regNum": "01011000001",
+      "fullName": "Главное управление Федеральной службы исполнения наказаний по Республике Башкортостан",
+      "inn": "0275006455",
+      "postalAddress": "Российская Федерация, 450015, Башкортостан Респ, Уфа г, ДОСТОЕВСКОГО, 39/1"
+    },
+    "currency": {
+      "code": "RUB",
+      "name": "Российский рубль"
+    },
+    "suppliers": [
+      {
+        "kpp": "027201001",
+        "factualAddress": "Респ.Башкортостан, 450024,  г.Уфа, ул. правды, 19",
+        "contactPhone": "7-347-2215487",
+        "country": {
+          "countryCode": "643",
+          "countryFullName": "Российская Федерация"
+        },
+        "legalForm": {
+          "code": "20903",
+          "singularName": "Бюджетное учреждение"
+        },
+        "inn": "0272016511",
+        "participantType": "U",
+        "organizationName": "Финансовое управление Администрации ГО г.Уфа РБ (МБУЗ Городская клиническая больница № 3 г.Уфа л/с 20304041020)",
+        "contactInfo": {
+          "middleName": "Б",
+          "lastName": "Шамигулов",
+          "firstName": "Ф"
+        },
+        "postAddress": "Респ.Башкортостан, 450024,  г.Уфа, ул. правды, 19",
+        "contactFax": "7-347-2215487"
+      }
+    ],
+    "loadId": 82,
+    "finances": {
+      "budgetLevel": {
+        "code": "01"
+      },
+      "financeSource": "Российская Федерация",
+      "budget": {
+        "code": "99010001",
+        "name": "Федеральный бюджет"
+      },
+      "budgetary": [
+        {
+          "KBK": "32003054233971244226",
+          "price": 300000.0,
+          "month": "12",
+          "substageYear": "2014",
+          "year": "2014",
+          "substageMonth": "12"
+        }
+      ]
+    },
+    "products": [
+      {
+        "name": "Услуги больниц",
+        "OKPD": {
+          "code": "85.14.12.120"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 300000.0,
+        "sid": "48723308",
+        "price": 300000.0
+      }
+    ],
+    "printFormUrl": "http://zakupki.gov.ru/pgz/printForm?type=CONTRACT_INFO&id=14765363",
+    "economic_sectors": [
+      {
+        "code": "N",
+        "name": "Услуги в области здравоохранения и социальные услуги"
+      }
+    ]
+  },
+  {
+    "contractProcedure": {
+      "terminations": {
+        "termination": {
+          "terminationDate": "2014-12-19+03:00",
+          "reason": "Соглашение о расторжении 3/13-388",
+          "paid": "0.00",
+          "terminationReason": {
+            "id": "8361024",
+            "name": "По соглашению сторон"
+          }
+        }
+      },
+      "id": "51721877",
+      "publishDate": "2014-12-19T14:44:33.171+05:00",
+      "@schemeVersion": "4.6"
+    },
+    "attachments": {
+      "attachment": [
+        {
+          "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=173041959&docType=contract_document",
+          "docDescription": "дс",
+          "fileName": "дс.jpg"
+        }
+      ]
+    },
+    "scan": [
+      {
+        "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=173041647&docType=contract_document",
+        "docDescription": "д2",
+        "fileName": "д2.jpg"
+      },
+      {
+        "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=173041646&docType=contract_document",
+        "docDescription": "д1",
+        "fileName": "д1.jpg"
+      },
+      {
+        "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=173041648&docType=contract_document",
+        "docDescription": "д3",
+        "fileName": "д3.jpg"
+      },
+      {
+        "url": "http://zakupki.gov.ru/pgz/documentdownload?documentId=173041649&docType=contract_document",
+        "docDescription": "д4",
+        "fileName": "д4.jpg"
+      }
+    ],
+    "number": "3/13-633",
+    "currentContractStage": "E",
+    "id": "17294032",
+    "fileVersion": "2014110100_039",
+    "placing": "0",
+    "regionCode": "02",
+    "contractUrl": "http://zakupki.gov.ru/epz/contract/contractCard/common-info.html?reestrNumber=0101100000113000315",
+    "singleCustomerReason": {
+      "id": "6",
+      "name": "Пункт 5 части 2 статьи 55 – Возникла потребность в работах или услугах, выполнение или оказание которых может осуществляться исключительно органами исполнительной власти в соответствии с их полномочиями или подведомственными им государственными учреждениями, государственными унитарными предприятиями"
+    },
+    "signDate": "2013-12-23T00:00:00Z",
+    "modification": {
+      "base": "Дополнительное соглашение 3/13-189 от 01.10.2014",
+      "type": "M",
+      "description": "Дополнительное соглашение 3/13-189 от 01.10.2014"
+    },
+    "fz": "44",
+    "documentBase": "п.5 ч.2 статьи 55 Федерального закона от21.07.2005г. №94-ФЗ \"О размещении заказов на поставки товаров, выполнение работ, оказание услуг для государственных и муниципальных нужд\"",
+    "foundation": {
+      "singleCustomer": "true"
+    },
+    "price": 10000.0,
+    "publishDate": "2014-10-02T15:21:39Z",
+    "regNum": "0101100000113000315",
+    "versionNumber": 1,
+    "schemaVersion": "4.5",
+    "execution": {
+      "year": "2014",
+      "month": "12"
+    },
+    "customer": {
+      "kpp": "027501001",
+      "regNum": "01011000001",
+      "fullName": "Главное управление Федеральной службы исполнения наказаний по Республике Башкортостан",
+      "inn": "0275006455",
+      "postalAddress": "Российская Федерация, 450015, Башкортостан Респ, Уфа г, ДОСТОЕВСКОГО, 39/1"
+    },
+    "currency": {
+      "code": "RUB",
+      "name": "Российский рубль"
+    },
+    "suppliers": [
+      {
+        "kpp": "025901001",
+        "factualAddress": "Республика Башкортостан, 453405, г. Давлеканово, ул. Заводская, 9",
+        "contactPhone": "7-34768-32569",
+        "country": {
+          "countryCode": "643",
+          "countryFullName": "Российская Федерация"
+        },
+        "legalForm": {
+          "code": "20900",
+          "singularName": "Учреждение"
+        },
+        "inn": "0259002252",
+        "participantType": "U",
+        "organizationName": "Министерство финансов РБ (ГБУЗ РБ Давлекановская ЦРБ, л/с 20112041320)",
+        "postAddress": "Республика Башкортостан, 453405, г. Давлеканово, ул. Заводская, 9"
+      }
+    ],
+    "loadId": 82,
+    "finances": {
+      "budgetLevel": {
+        "code": "01"
+      },
+      "financeSource": "Российская Федерация",
+      "budget": {
+        "code": "99010001",
+        "name": "Федеральный бюджет"
+      },
+      "budgetary": [
+        {
+          "KBK": "32003054233971244226",
+          "price": 10000.0,
+          "month": "12",
+          "substageYear": "2014",
+          "year": "2014",
+          "substageMonth": "12"
+        }
+      ]
+    },
+    "products": [
+      {
+        "name": "Услуги больниц",
+        "OKPD": {
+          "code": "85.12.11.130"
+        },
+        "OKEI": {
+          "code": "796",
+          "name": "ШТ"
+        },
+        "sum": 10000.0,
+        "sid": "48851888",
+        "price": 10000.0
+      }
+    ],
+    "printFormUrl": "http://zakupki.gov.ru/pgz/printForm?type=CONTRACT_INFO&id=17294032",
+    "economic_sectors": [
+      {
+        "code": "N",
+        "name": "Услуги в области здравоохранения и социальные услуги"
+      }
+    ]
+  }
+]

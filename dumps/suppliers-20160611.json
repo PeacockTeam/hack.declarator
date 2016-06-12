@@ -1,0 +1,331 @@
+[
+  {
+    "kpp": "710601001",
+    "factualAddress": "300041, Тульская обл., г.Тула, ул. Мосина, д.2",
+    "contracts223Count": 1,
+    "organizationName": "Общество с ограниченной ответственностью \"Союзмашпроект (проектный институт)\"",
+    "organizationForm": "OOO",
+    "contractsCount": 24,
+    "country": {
+      "countryCode": "643",
+      "countryFullName": "Российская Федерация"
+    },
+    "contracts223YearStats": {
+      "2015": {
+        "contractsCount": 1,
+        "contractsSum": 80000.0
+      }
+    },
+    "contractsSum": 10261075.489999998,
+    "contractsYearStats": {
+      "2015": {
+        "contractsCount": 2,
+        "contractsSum": 619000.0
+      },
+      "2014": {
+        "contractsCount": 5,
+        "contractsSum": 1477805.6099999999
+      },
+      "2011": {
+        "contractsCount": 2,
+        "contractsSum": 1348205.13
+      },
+      "2013": {
+        "contractsCount": 8,
+        "contractsSum": 3486569.18
+      },
+      "2012": {
+        "contractsCount": 7,
+        "contractsSum": 3329495.5700000003
+      }
+    },
+    "regionCode": "71",
+    "inn": "7107510335",
+    "allNames": [
+      "«Союзмашпроект (проектный институт)» (ООО «СМпроект»)",
+      "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СОЮЗМАШПРОЕКТ (ПРОЕКТНЫЙ ИНСТИТУТ)\"",
+      "\"Союзмашпроект\" (проектный институт)\"",
+      "ОOO «СМпроект»",
+      "\"Союзмашпроект\" (проетны инсут)\"",
+      "Союзмашпроект",
+      "Общество с ограниченной ответственностью \"Союзмашпроект (проектный институт)\"",
+      "«СМпроект»",
+      "ООО \"Союзмашпроект\"",
+      "\"Союзмашпроект (проектный институт)\""
+    ],
+    "coordinates": {
+      "lat": "55.742077",
+      "lon": "37.603207"
+    },
+    "contracts223Sum": 80000.0,
+    "participantType": "U",
+    "contactPhone": "7-962-2705623",
+    "contactInfo": {
+      "middleName": "Валерьевич",
+      "lastName": "Лукин",
+      "firstName": "Сергей"
+    },
+    "postAddress": "300024, Тульская обл., г.Тула, ул. Рязанская, д.22"
+  },
+  {
+    "kpp": "770201001",
+    "contracts223Count": 1,
+    "contracts223YearStats": {
+      "2014": {
+        "contractsCount": 1,
+        "contractsSum": 543965.0
+      }
+    },
+    "coordinates": {
+      "lat": "",
+      "lon": ""
+    },
+    "regionCode": "77",
+    "inn": "7702806524",
+    "allNames": [
+      "ООО \"СтройТек\""
+    ],
+    "ogrn": "1137746023337",
+    "contracts223Sum": 543965.0,
+    "organizationName": "ООО \"СтройТек\"",
+    "type": "L"
+  },
+  {
+    "kpp": "781301001",
+    "contracts223Count": 1,
+    "contracts223YearStats": {
+      "2015": {
+        "contractsCount": 1,
+        "contractsSum": 749000.0
+      }
+    },
+    "regionCode": "78",
+    "inn": "7813593984",
+    "allNames": [
+      "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КОМПЛЕКСНОЕ ИНЖЕНЕРНОЕ ПРОЕКТИРОВАНИЕ\""
+    ],
+    "contracts223Sum": 749000.0,
+    "organizationName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КОМПЛЕКСНОЕ ИНЖЕНЕРНОЕ ПРОЕКТИРОВАНИЕ\"",
+    "type": "L"
+  },
+  {
+    "kpp": "366601001",
+    "legalForm": {
+      "code": "12300",
+      "singularName": "Общество с ограниченной ответственностью"
+    },
+    "factualAddress": "394036, г.Воронеж, ул.Свободы, 73, оф.331",
+    "contactPhone": "7-961-1091034",
+    "contractsCount": 1,
+    "contractsYearStats": {
+      "2016": {
+        "contractsCount": 1,
+        "contractsSum": 85000.0
+      }
+    },
+    "contractsSum": 85000.0,
+    "contactEMail": "nk-project@inbox.ru",
+    "regionCode": "36",
+    "inn": "3664137061",
+    "allNames": [
+      "ООО \"НК-проект инжиниринг\""
+    ],
+    "participantType": "U",
+    "organizationName": "ООО \"НК-проект инжиниринг\"",
+    "contactInfo": {
+      "middleName": "А.",
+      "lastName": "Коржов",
+      "firstName": "Н."
+    }
+  },
+  {
+    "kpp": "366401001",
+    "factualAddress": "394018, г. Воронеж,ул. Куцыгина,.32, оф.408",
+    "contactPhone": "8-952-5441777",
+    "contractsCount": 5,
+    "country": {
+      "countryCode": "643",
+      "countryFullName": "Российская Федерация"
+    },
+    "contractsYearStats": {
+      "2015": {
+        "contractsCount": 4,
+        "contractsSum": 893600.0
+      },
+      "2014": {
+        "contractsCount": 1,
+        "contractsSum": 315000.0
+      }
+    },
+    "coordinates": {
+      "lat": "",
+      "lon": ""
+    },
+    "legalForm": {
+      "code": "12165",
+      "singularName": "Общество с ограниченной ответственностью"
+    },
+    "regionCode": "36",
+    "inn": "3664137061",
+    "allNames": [
+      "Общество с ограниченной ответственностью \"НК-Проект Инжиниринг\"",
+      "ООО \"НК-проект инжиниринг\"",
+      "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НК-ПРОЕКТ ИНЖИНИРИНГ\""
+    ],
+    "contractsSum": 1208600.0,
+    "participantType": "U",
+    "organizationName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НК-ПРОЕКТ ИНЖИНИРИНГ\""
+  },
+  {
+    "contactPhone": "8-86383-26182",
+    "contractsCount": 7,
+    "country": {
+      "countryCode": "643",
+      "countryFullName": "Российская Федерация"
+    },
+    "contractsYearStats": {
+      "2014": {
+        "contractsCount": 7,
+        "contractsSum": 757461.46
+      }
+    },
+    "contractsSum": 757461.46,
+    "legalForm": {
+      "code": "50102",
+      "singularName": "Индивидуальный предприниматель"
+    },
+    "inn": "614200307723",
+    "allNames": [
+      "Кащеев Александр Сергеевич"
+    ],
+    "participantType": "U",
+    "organizationName": "Кащеев Александр Сергеевич",
+    "contactInfo": {
+      "middleName": "Сергеевич",
+      "lastName": "Кащеев",
+      "firstName": "Александр"
+    }
+  },
+  {
+    "kpp": "184001001",
+    "contracts223Count": 2,
+    "contracts223YearStats": {
+      "2016": {
+        "contractsCount": 2,
+        "contractsSum": 330420.0
+      }
+    },
+    "ogrn": "1021801506627",
+    "regionCode": "18",
+    "inn": "1833015162",
+    "allNames": [
+      "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ ПРЕДПРИЯТИЕ ОБЩЕСТВЕННОГО ПИТАНИЯ \"ТЮЛЬПАН\""
+    ],
+    "contracts223Sum": 330420.0,
+    "organizationName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ  ПРЕДПРИЯТИЕ ОБЩЕСТВЕННОГО ПИТАНИЯ \"ТЮЛЬПАН\"",
+    "type": "L"
+  },
+  {
+    "kpp": "263001001",
+    "factualAddress": "357202, г. Минеральные Воды, ул. Московская, 29",
+    "contactPhone": "7-87922-76462",
+    "contractsCount": 8,
+    "country": {
+      "countryCode": "643",
+      "countryFullName": "Российская Федерация"
+    },
+    "contractsYearStats": {
+      "2014": {
+        "contractsCount": 3,
+        "contractsSum": 192000.0
+      },
+      "2016": {
+        "contractsCount": 3,
+        "contractsSum": 222135.94
+      },
+      "2013": {
+        "contractsCount": 2,
+        "contractsSum": 242000.0
+      }
+    },
+    "coordinates": {
+      "lat": "",
+      "lon": ""
+    },
+    "regionCode": "26",
+    "inn": "2630000067",
+    "allNames": [
+      "ПАО \"СТАВРОПЛАСТ\"",
+      "ОАО \"Ставропласт\"",
+      "Открытое акционерное общество «Ставропласт»"
+    ],
+    "contractsSum": 656135.94,
+    "participantType": "U",
+    "organizationName": "Открытое акционерное общество «Ставропласт»",
+    "contactInfo": {
+      "middleName": "Я.",
+      "lastName": "Андреев",
+      "firstName": "С."
+    }
+  },
+  {
+    "kpp": "665801001",
+    "legalForm": {
+      "code": "12300",
+      "singularName": "Общество с ограниченной ответственностью"
+    },
+    "factualAddress": "620028, Российская Федерация, Свердловская область, Екатеринбург, Татищева ул, 98 офис (квартира)  13",
+    "contactPhone": "8-929-2178740",
+    "contractsCount": 2,
+    "contractsYearStats": {
+      "2015": {
+        "contractsCount": 2,
+        "contractsSum": 5316098.29
+      }
+    },
+    "contractsSum": 5316098.29,
+    "contactEMail": "krasil3@mail.ru",
+    "regionCode": "66",
+    "inn": "6658460978",
+    "allNames": [
+      "СТРОИТЕЛЬНО-ТОРГОВАЯ КОМПАНИЯ \"РЕГИОН РОСТ\"",
+      "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ СТРОИТЕЛЬНО-ТОРГОВАЯ КОМПАНИЯ \"РЕГИОН РОСТ\""
+    ],
+    "participantType": "U",
+    "organizationName": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ СТРОИТЕЛЬНО-ТОРГОВАЯ КОМПАНИЯ \"РЕГИОН РОСТ\""
+  },
+  {
+    "kpp": "183101001",
+    "factualAddress": "426035 УР ,г. Ижевск ул. Авангардная 4",
+    "contactPhone": "7-3412-430832",
+    "contractsCount": 1,
+    "country": {
+      "countryCode": "643",
+      "countryFullName": "Российская Федерация"
+    },
+    "contractsYearStats": {
+      "2013": {
+        "contractsCount": 1,
+        "contractsSum": 31680.0
+      }
+    },
+    "coordinates": {
+      "lat": "56.861217",
+      "lon": "53.227119"
+    },
+    "regionCode": "18",
+    "inn": "1232011119",
+    "allNames": [
+      "ООО \"Сюрес\""
+    ],
+    "contractsSum": 31680.0,
+    "participantType": "U",
+    "organizationName": "ООО \"Сюрес\"",
+    "contactInfo": {
+      "middleName": "А",
+      "lastName": "Кузнецов",
+      "firstName": "В"
+    },
+    "postAddress": "426035 УР ,г. Ижевск ул. Авангардная 4"
+  }
+]
